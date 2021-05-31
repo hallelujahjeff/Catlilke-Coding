@@ -19,6 +19,11 @@ public class MovingSphere : MonoBehaviour
         
     }
 
+    void hello()
+    {
+        Debug.Log("haha");
+    }
+    
     // Update is called once per frame
     void Update()
     {
